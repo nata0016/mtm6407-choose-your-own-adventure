@@ -7,4 +7,5 @@ What will you do next?
 
 **Your choice:**
 - [Follow the trail into the forest](forest-trail.md)
+- [Head toward the sound of running water](river.md)
 - [Explore the dark cave behind you](cave.md)
