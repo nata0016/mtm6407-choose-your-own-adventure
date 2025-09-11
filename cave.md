@@ -2,6 +2,8 @@ You decide to explore the dark cave behind you. As you step inside, the light di
 
 Suddenly, a faint breeze brushes past you, carrying the scent of something metallic and old.
 
+A soft clicking sound echoes somewhere deeper within the cave, hinting that something might have shifted or been triggered. The atmosphere feels charged, as if the cave itself is waiting for your next move.
+
 What will you do next?
 
 **Your choice:**
