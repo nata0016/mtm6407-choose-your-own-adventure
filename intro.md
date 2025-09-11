@@ -9,3 +9,4 @@ What will you do next?
 
 **Your choice:**
 - [Follow the trail into the forest](forest-trail.md)
+- [Climb the ancient oak tree](oak-tree.md)
