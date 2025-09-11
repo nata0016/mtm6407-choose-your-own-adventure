@@ -5,8 +5,8 @@ The air feels heavy, and you know your journey is just beginning.
 
 What will you do next?
 
-
-
 **Your choice:**
 - [Follow the trail into the forest](forest-trail.md)
 - [Follow the Path – Walk deeper into the forest trail, hoping it leads to something or someone.](follow-the-path.md)
+- [Head toward the sound of running water](river.md)
+- [Explore the dark cave behind you](cave.md)
