@@ -11,4 +11,5 @@ What will you do next?
 - [Follow the Path – Walk deeper into the forest trail, hoping it leads to something or someone.](follow-the-path.md)
 - [Head toward the sound of running water](river.md)
 - [Explore the dark cave behind you](cave.md)
+- [Walk towards the Mystic River](mystic-river.md)
 
